@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\Quiz_Assignment\bin\Debug\Quiz_Assignment.exe.config
+C:\Users\ASUS\source\repos\Quiz_Assignment\bin\Debug\Quiz_Assignment.exe
+C:\Users\ASUS\source\repos\Quiz_Assignment\bin\Debug\Quiz_Assignment.pdb
+C:\Users\ASUS\source\repos\Quiz_Assignment\obj\Debug\Quiz_Assignment.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Quiz_Assignment\obj\Debug\Quiz_Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\Quiz_Assignment\obj\Debug\Quiz_Assignment.Form1.resources
+C:\Users\ASUS\source\repos\Quiz_Assignment\obj\Debug\Quiz_Assignment.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Quiz_Assignment\obj\Debug\Quiz_Assignment.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Quiz_Assignment\obj\Debug\Quiz_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Quiz_Assignment\obj\Debug\Quiz_Assignment.exe
+C:\Users\ASUS\source\repos\Quiz_Assignment\obj\Debug\Quiz_Assignment.pdb
